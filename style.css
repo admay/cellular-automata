@@ -1,0 +1,21 @@
+.row div {
+	height: 8px;
+	display: inline-block;
+	width: 8px;
+}
+
+.row div.active {
+	background-color: white;
+}
+
+.row div.inactive {
+	background-color: black;
+}
+
+.row {
+	height: 8px;
+}
+
+body {
+	margin: 0;
+}
